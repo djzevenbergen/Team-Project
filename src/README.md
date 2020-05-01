@@ -42,6 +42,9 @@ _To Download Manually:_
 * Open folder called "Team-Project-master".
 * Right click "index.html" and select your preferred browser or text editor.
 
+## Play the Game
+https://github.com/djzevenbergen/Team-Project
+
 ## Known Bugs
 
 _No known bugs at this time._
