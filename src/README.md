@@ -43,7 +43,7 @@ _To Download Manually:_
 * Right click "index.html" and select your preferred browser or text editor.
 
 ## Play the Game
-https://github.com/djzevenbergen/Team-Project
+https://chuber42.github.io/Team-Project/
 
 ## Known Bugs
 
